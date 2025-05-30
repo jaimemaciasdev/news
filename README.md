@@ -50,4 +50,4 @@ GET /api/news/top?n=5
 - Create dtos for the services instead of using the same model
 
 ## Asumptions
-- After analyzing HackerNews Api it returns the beststories in descending order by score, so that is why I do not fetch the full list of story details and then sort it
+- After analyzing a bit the HackerNews API, it returns the beststories in descending order by score, so that is why I do not fetch the full list of story details and then sort it
